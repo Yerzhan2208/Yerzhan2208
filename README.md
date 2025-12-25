@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Software Developer | BSc Computer Science @ CityUHK'28
 🌟 About Me
-Software Developer | BSc Computer Science @ CityUHK'28
-📫 How to reach me: 
+📫 How to reach me: yerzhan.panayev@gmail.com
