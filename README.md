@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Software Developer | BSc Computer Science @ CityUHK'28
-🌟 About Me
+## 🌟 About Me
 
 I'm a Computer Science student from Kazakhstan studying at City University of Hong Kong, passionate about exploring the intersection of AI and software development. I'm fascinated by how intelligent systems can solve real-world problems and enjoy building practical applications that bridge theoretical concepts with tangible solutions.
 
 📫 How to reach me: yerzhan.panayev@gmail.com
 
 📄 My Resume: [CV](https://drive.google.com/file/d/1d7cNL6Yjb9QP0u0xMWCjlQ-7dDbM6yLj/view?usp=sharing)
+
+## 🛠️ Tech Stack
