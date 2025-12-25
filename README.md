@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Yerzhan 👋
 
 <!--
 **Yerzhan2208/Yerzhan2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌟 About Me
+Software Developer | BSc Computer Science @ CityUHK'28
+📫 How to reach me: 
