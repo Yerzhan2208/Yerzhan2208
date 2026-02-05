@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Software Developer | BSc Computer Science @ CityUHK'28
+### Data Analyst, Software Developer | BSc Computer Science @ CityUHK'28
 ## 🌟 About Me
 
 I'm a Computer Science student from Kazakhstan studying at City University of Hong Kong, passionate about exploring the intersection of AI and software development. I'm fascinated by how intelligent systems can solve real-world problems and enjoy building practical applications that bridge theoretical concepts with tangible solutions.
