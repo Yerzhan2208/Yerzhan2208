@@ -22,6 +22,7 @@ I'm a Computer Science student from Kazakhstan studying at City University of Ho
 📫 How to reach me: yerzhan.panayev@gmail.com | ypanayev3-c@my.cityu.edu.hk
 
 📄 Quant CV: [CV](https://drive.google.com/file/d/1VUqaPsLWwVYRbQb9Pf2kr_yziEsnhY2o/view?usp=sharing)
+
 📄 Technology CV: [CV](https://drive.google.com/file/d/19JQuFLn6kDi08qvvHtKqKT9mXG85nu3e/view?usp=sharing)
 
 ## 💻 Tech Stack:
